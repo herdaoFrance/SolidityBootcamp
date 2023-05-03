@@ -12,10 +12,10 @@
 ✔️ Lens Protocol : [Lens Protocol](https://www.lens.xyz/) - [Lens Protocol Github](https://github.com/lens-protocol) 
 
 <details>
-  <summary><h1> Sommaire </h1></summary>
-  <h1> Explorer un protocole : exemple avec le protocol Lens  </h1>
-  <h1> Interagir avec un smart contract</h1>
-  <h1> Connecter le back-end et le front-end </h1>
+  <summary> Sessions </summary>
+  <h1> 🔍 Explorer un protocole : exemple avec le protocol Lens  </h1>
+  <h1> 🔗 Interagir avec un smart contract</h1>
+  <h1> 🌐 Connecter le back-end et le front-end </h1>
 </details>
   
 
