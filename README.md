@@ -11,12 +11,11 @@
 
 ✔️ Lens Protocol : [Lens Protocol](https://www.lens.xyz/) - [Lens Protocol Github](https://github.com/lens-protocol) 
 
-<details>
  ## Sessions 
   <h1> 🔍 Explorer un protocole : exemple avec le protocol Lens  </h1>
   <h1> 🔗 Interagir avec un smart contract</h1>
   <h1> 🌐 Connecter le back-end et le front-end </h1>
-</details>
+
   
 
 ✅ Vous avez maintenant tous les outils nécessaire pour commencer le bootcamp solidity ! 
