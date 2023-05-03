@@ -11,7 +11,6 @@
 
 ✔️ Lens Protocol : [Lens Protocol](https://www.lens.xyz/) - [Lens Protocol Github](https://github.com/lens-protocol) 
 
- ## Sessions 
   <h1> 🔍 Explorer un protocole : exemple avec le protocol Lens  </h1>
   <h1> 🔗 Interagir avec un smart contract</h1>
   <h1> 🌐 Connecter le back-end et le front-end </h1>
