@@ -3,7 +3,7 @@ Solidity bootcamp
 
 👾Bienvenue pour premier bootcamp Solidity :) 
 
-🧵 L'objectif est de te donner des ressources nécessaires pour les hackathons, particulièrement l'ETHCC.  
+🧵 L'objectif est de te donner des ressources nécessaires pour les hackathons, particulièrement l'ETHCC :).  
 
 ## Les logiciels à installer ?
 ✔️ Set up son environnement - les logiciels et software principaux : [click here](https://github.com/herdaoFrance/Workshop1-Set-up)
