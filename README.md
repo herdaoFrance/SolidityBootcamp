@@ -1,5 +1,4 @@
 # SolidityBootcamp
-Solidity bootcamp
 
 👾Bienvenue pour premier bootcamp Solidity :) 
 
